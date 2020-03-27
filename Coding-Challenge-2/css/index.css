@@ -1,7 +1,42 @@
-
+body {
+	font-family: sans-serif;
+}
 
 div{
     border: 1px solid black;
     padding: 5px;
+}
+
+
+.heading-box {
+
+	float: left;	
+	margin-top: 100px;
+	margin-left: 150px;
+	margin: 20px; 
+}
+
+.navigation {
+	margin-top: 5px;
+	margin-left: 20px;
+	margin-top: 0px;
+	margin: 20px 
+
+}
+
+.nav-box{
+	margin-top: 20px;
+	width: auto;
+	padding: 10px;
+	margin: 10px;
+	float: left;
+
+}
+
+.container {
+	margin: 15px;
+	padding: 15px;
+	width: auto;
+	height: auto;
 }
 
