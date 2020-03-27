@@ -159,4 +159,21 @@ Total 3 (delta 1), reused 0 (delta 0)
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/manueleduar/First-Partial-Exam-1.git
    3f28b68..3e54f22  master -> master
+PS C:\Users\Manuel\Documents\Tec\Desarrollo de Aplicaciones Web\Examenes\Parcial 1\First-Partial-Exam-1>
+
+no changes added to commit (use "git add" and/or "git commit -a")
+PS C:\Users\Manuel\Documents\Tec\Desarrollo de Aplicaciones Web\Examenes\Parcial 1\First-Partial-Exam-1> git add .
+PS C:\Users\Manuel\Documents\Tec\Desarrollo de Aplicaciones Web\Examenes\Parcial 1\First-Partial-Exam-1> git commit -m "README added"
+[master 7db9005] README added
+ 1 file changed, 161 insertions(+), 1 deletion(-)
+PS C:\Users\Manuel\Documents\Tec\Desarrollo de Aplicaciones Web\Examenes\Parcial 1\First-Partial-Exam-1> git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 1.60 KiB | 545.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/manueleduar/First-Partial-Exam-1.git
+   3e54f22..7db9005  master -> master
 PS C:\Users\Manuel\Documents\Tec\Desarrollo de Aplicaciones Web\Examenes\Parcial 1\First-Partial-Exam-1></p></p>
